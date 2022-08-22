@@ -7,17 +7,17 @@ Definition of an algorithm:
 A set of instructions that solve a problem or complete a task. 
 
 Chapter 1 focus questions: 
-1) 
+1) Does the \n function work with expressions?
     a)
-2)
+2) How does debugging fix logic errors?
     a)
-3)
+3) What's the difference btween a high-level language and a scripting language?
     a)
 
 Chapter 2 focus questions: 
-1)
+1) The py manual says to use underscores, but the syllabus says to use camelCase. Which is industry standard or preferred? 
     a)
-2)
+2) Even though integers and strings are immutable, can they still be expressed as each other through the int() and str() functions?
     a)
-3)
+3) What exactly is a literal? Is there a difference between string literals and integer literals?
     a)
